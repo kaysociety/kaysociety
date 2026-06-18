@@ -62,35 +62,29 @@ status: Hunting for impact.
 
 # ☠️ CUSTOM OFFENSIVE TOOLS
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649433-cb0d7d08-5f7d-48c4-bb94-46f7fd4c6b08.gif" width="180"/>
+</div>
 
 ## 🔍 kay_recon
 ```diff
-+ Smart subdomain enumeration
-+ Endpoint harvesting
-+ JS secret extraction
-+ XSS reflection analysis
-+ Target prioritization
++ Subdomain Enumeration
++ Live Host Validation
++ JS Secret Discovery
++ XSS Reflection Detection
++ Endpoint Mapping
++ HTML Reports
 ```
-
-</td>
-<td width="50%">
 
 ## ⚔️ kaybugbountyhunter
 ```diff
-+ Passive recon
-+ TLS inspection
-+ Security headers audit
-+ Cookie analysis
-+ Metadata hunting
-+ Risk engine
++ Passive + Active Recon
++ Security Header Analysis
++ TLS Inspection
++ Cookie Security Checks
++ Metadata Discovery
++ Risk Prioritization
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
