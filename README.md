@@ -183,18 +183,17 @@ Markdown • HTML Reports • JSON Reports • Bug Bounty Dashboards
 <tr>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
-<h3>🔐 SecureChat</h3>
-<p>End-to-End Encrypted Messaging Platform</p>
+<h3>🔐 Web Dev</h3>
+<p>Development of Websites</p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
 <br/>
 <a href="#"><img src="https://img.shields.io/badge/Demo-Live-667eea?style=for-the-badge"/></a>
 </td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7243ca.gif" width="80"/>
-<h3>🤖 AI TaskMaster</h3>
-<p>Intelligent Task Management System</p>
+<td align="center" width="33%"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+<h3>🛡️ Cybersecurity Tools</h3>
+<p>Web and Network Advanced Testing Tools</p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,react" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge"/>
@@ -203,8 +202,8 @@ Markdown • HTML Reports • JSON Reports • Bug Bounty Dashboards
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-<h3>🛡️ CyberGuard</h3>
-<p>Network Security Monitoring Tool</p>
+<h3>🤖 Automation </h3>
+<p>Developing and automating workflows </p>
 <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge"/>
