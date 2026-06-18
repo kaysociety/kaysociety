@@ -173,16 +173,6 @@ Markdown • HTML Reports • JSON Reports • Bug Bounty Dashboards
 </div>
 
 
-<!-- GitHub Stats Section -->
-
-<h2>📊 GitHub Analytics</h2>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&bg_color=0,0d1117,151b23"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&stroke=667eea&ring=667eea&fire=f093fb&currStreakLabel=667eea&background=0D1117"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0,0d1117,151b23&langs_count=12"/>
-</div>
-
 <!-- Projects Section -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="150"/>
