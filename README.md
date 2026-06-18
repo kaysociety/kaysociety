@@ -95,56 +95,85 @@ status: Hunting for impact.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](#)
 </div>
 
-<!-- Skills Section with Tech Background -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="150"/>
 
-<h2>🛠️ Technology Stack</h2>
+
+<!-- Cybersecurity Skills Section -->
+<div align="center">
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6oWmO/giphy.gif" width="100%" height="150"/>
+
+<h2>🛡️ Cybersecurity Arsenal</h2>
 
 <table>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
-<h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,figma" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+<h3>🔍 Recon & Enumeration</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,python" /><br>
+subfinder • amass • assetfinder • httpx • katana • gau • waybackurls
+</p>
 </td>
+
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-<h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,java,spring,express,firebase" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
+<h3>⚔️ Web Exploitation</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,python,javascript" /><br>
+Burp Suite • SQLmap • Nuclei • ffuf • XSStrike • Dalfox • Commix
+</p>
 </td>
 </tr>
+
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-<h3>📱 Mobile</h3>
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio,dart,react" />
+<img src="https://media.giphy.com/media/l41YcLtmnhYyUlbfq/giphy.gif" width="100"/>
+<h3>🌐 Network Security</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,aws" /><br>
+Nmap • Wireshark • Netcat • Bettercap • Responder • Aircrack-ng
+</p>
 </td>
+
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"/>
-<h3>🗄️ Database</h3>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,sqlite,aws,gcp,docker" />
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ9rJZwMxy/giphy.gif" width="100"/>
+<h3>🛠️ Reverse Engineering</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,c,cpp,python" /><br>
+Ghidra • Radare2 • Binary Ninja • Apktool • Frida • IDA Free
+</p>
 </td>
 </tr>
 </table>
 
-<h3>🤖 AI/ML & Data Science</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7243ca.gif" width="100"/>
+<h3>☠️ Red Team & Pentesting</h3>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"/>
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv" />
-<img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+Metasploit • Empire • Sliver • Havoc • CrackMapExec • BloodHound • Impacket
 </p>
 
-<h3>🔧 Tools & Technologies</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+<h3>🧠 Scripting & Automation</h3>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,photoshop,blender,postman" />
+<img src="https://skillicons.dev/icons?i=python,bash,go" /><br>
+Custom Recon Tools • Automation Scripts • API Testing • CI/CD Security
+</p>
+
+<h3>🐉 Kali Linux Toolkit</h3>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
+<p>
+Burp Suite • Nuclei • Gobuster • Dirsearch • Hydra • John The Ripper • Hashcat • Nikto • WPScan
+</p>
+
+<h3>📂 Reporting & Collaboration</h3>
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /><br>
+Markdown • HTML Reports • JSON Reports • Bug Bounty Dashboards
 </p>
 </div>
 
+
 <!-- GitHub Stats Section -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="100"/>
 
 <h2>📊 GitHub Analytics</h2>
 
@@ -195,106 +224,6 @@ status: Hunting for impact.
 </tr>
 </table>
 </div>
-
-<!-- Achievement Section -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" height="100"/>
-
-<h2>🏆 Achievements & Recognition</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=MultiLanguage,Commits,PullRequest,Reviews,Stars,Repositories,Followers,Issues"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="100"/>
-
-<h2>📈 Contribution Activity</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
-</div>
-
-<!-- Learning Progress -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" height="150"/>
-
-<h2>📚 Currently Exploring</h2>
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48"/>
-<h4>Kubernetes</h4>
-<img src="https://geps.dev/progress/75"/>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48"/>
-<h4>Rust</h4>
-<img src="https://geps.dev/progress/60"/>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48"/>
-<h4>GraphQL</h4>
-<img src="https://geps.dev/progress/80"/>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48"/>
-<h4>Blockchain</h4>
-<img src="https://geps.dev/progress/45"/>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=threejs" width="48" height="48"/>
-<h4>Three.js</h4>
-<img src="https://geps.dev/progress/70"/>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Quote Section -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="100"/>
-
-<h2>💭 Daily Inspiration</h2>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true"/>
-</div>
-
-<!-- Support Section -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100%" height="150"/>
-
-<h2>☕ Support My Journey</h2>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
-<p>If you appreciate my work and would like to support my coding journey:</p>
-</td>
-</tr>
-</table>
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fountstream)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#)
-</div>
-
-<!-- Footer Section -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="100"/>
-
-<h3>🌟 <em>"Innovation distinguishes between a leader and a follower"</em> - Steve Jobs</h3>
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=667eea&style=for-the-badge&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/yourusername?color=667eea&style=for-the-badge&logo=github&label=Followers"/>
-<img src="https://img.shields.io/github/stars/yourusername?color=667eea&style=for-the-badge&logo=github&label=Total+Stars"/>
-
-<h4>⭐ Don't forget to star repositories you find interesting!</h4>
-<h4>🤝 Always open to collaboration and new opportunities</h4>
-</div>
-
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 ---
 
