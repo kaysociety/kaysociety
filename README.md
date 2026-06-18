@@ -154,7 +154,6 @@ status: Hunting for impact.
 <img src="https://img.shields.io/badge/API-Breaker-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Recon-Automation-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Web-Security-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bug-Bounty-Active-darkred?style=for-the-badge"/>
 
 </div>
 
