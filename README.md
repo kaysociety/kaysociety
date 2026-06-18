@@ -150,7 +150,11 @@ status: Hunting for impact.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kaysociety&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+<img src="https://img.shields.io/badge/XSS-Hunter-00ff41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-Breaker-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recon-Automation-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web-Security-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bug-Bounty-Active-darkred?style=for-the-badge"/>
 
 </div>
 
