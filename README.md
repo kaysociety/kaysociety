@@ -96,15 +96,15 @@ status: Hunting for impact.
 
 # 🎯 LIVE TARGET MATRIX
 
-<div align="center">
+<p align="center">
 
-<img src="https://progress-bar.dev/95/?title=XSS"/>
-<img src="https://progress-bar.dev/87/?title=IDOR"/>
-<img src="https://progress-bar.dev/81/?title=SSRF"/>
-<img src="https://progress-bar.dev/89/?title=Broken+Auth"/>
-<img src="https://progress-bar.dev/84/?title=API+Security"/>
+<img src="https://img.shields.io/badge/XSS-97%25-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/IDOR-90%25-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/SSRF-85%25-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Broken_Access-88%25-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/API_Security-91%25-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
-</div>
+</p>
 
 ---
 
