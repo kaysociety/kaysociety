@@ -135,7 +135,7 @@ Nmap • Wireshark • Netcat • Bettercap • Responder • Aircrack-ng
 </td>
 
 <td align="center">
-<img src="https://media.tenor.com/oqyUP8olluoAAAAC/code.gif" width="100"/>  
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
 <h3>🛠️ Reverse Engineering</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=linux,c,cpp,python" /><br>
