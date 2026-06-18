@@ -48,13 +48,13 @@ certifications:
 status: Hunting for impact.
 ```
 
----
-
-# 🛠 WEAPONIZED STACK
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,js,nodejs,mysql,mongodb,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,js,nodejs,mysql,mongodb"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaysociety&theme=github_dark"/>
 
 </div>
 
