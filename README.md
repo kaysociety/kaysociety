@@ -224,7 +224,7 @@ Markdown • HTML Reports • JSON Reports • Bug Bounty Dashboards
 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,js,nodejs,mysql,mongodb"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaysociety&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoiskay404&theme=github_dark"/>
 
 </div>
 
