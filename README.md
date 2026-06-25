@@ -276,10 +276,10 @@ Markdown • HTML Reports • JSON Reports • Bug Bounty Dashboards
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaysociety&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaysociety&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=whoiskay404&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=whoiskay404&theme=chartreuse-dark&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaysociety&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whoiskay404&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
