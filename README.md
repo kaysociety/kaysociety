@@ -39,13 +39,14 @@ Target Acquisition Enabled.
 
 ```yaml
 name: Karabo Kosi
-alias: kaysociety
+alias: whoiskay
 country: Botswana 🇧🇼
 specialization:
-  - Bug Bounty Hunting
   - Web Application Security
-  - Recon Automation
   - API Security Testing
+  - Network Security
+  - Bug Bounty Hunting
+  - Recon Automation
 certifications:
   - CompTIA Security+
   - CompTIA A+
