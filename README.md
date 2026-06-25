@@ -17,7 +17,7 @@
 # ⚡ BOOT SEQUENCE
 
 ```bash
-Initializing kaysociety profile...
+Initializing whoiskay profile...
 [██████████████████████] 100%
 
 Operator Loaded.
