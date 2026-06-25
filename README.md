@@ -237,7 +237,7 @@ Markdown • HTML Reports • JSON Reports • Bug Bounty Dashboards
 <img src="https://user-images.githubusercontent.com/74038190/216649433-cb0d7d08-5f7d-48c4-bb94-46f7fd4c6b08.gif" width="180"/>
 </div>
 
-## 🔍 kay_recon
+## 🔍 Recon_Security
 ```diff
 + Subdomain Enumeration
 + Live Host Validation
@@ -247,7 +247,7 @@ Markdown • HTML Reports • JSON Reports • Bug Bounty Dashboards
 + HTML Reports
 ```
 
-## ⚔️ kaybugbountyhunter
+## ⚔️ Misconfig_Security
 ```diff
 + Passive + Active Recon
 + Security Header Analysis
